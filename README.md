@@ -27,25 +27,10 @@ Describe your project once, get a complete execution workflow instantly.
 <br/>
 
 <!-- Landing Page Preview -->
-<pre style="background: #0d1117; color: #e2e8f0; padding: 24px; border-radius: 16px; border: 1px solid #1f2937; text-align: center; font-family: 'Inter', sans-serif; line-height: 1.6; max-width: 600px; margin: 12px auto;">
-  <span style="font-size: 11px; color: #d97706; letter-spacing: 3px;">ELITE PROMPT ARCHITECTURE SYSTEM</span>
 
-  <span style="font-size: 28px; font-weight: 800; color: #fff;">Turn Any Idea Into a</span>
-  <span style="font-size: 28px; font-weight: 800; background: linear-gradient(90deg, #f59e0b, #d97706); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Production AI Workflow</span>
+## Landing Page
 
-  <span style="color: #6b7280; font-size: 14px;">Describe your project once. Get three production-grade prompts —</span>
-  <span style="color: #f59e0b; font-size: 14px;">Plan</span><span style="color: #6b7280; font-size: 14px;"> · </span>
-  <span style="color: #10b981; font-size: 14px;">Build</span><span style="color: #6b7280; font-size: 14px;"> · </span>
-  <span style="color: #8b5cf6; font-size: 14px;">Optimize</span>
-
-  <br/><br/>
-
-  <span style="display: inline-block; background: #d97706; color: #fff; padding: 10px 28px; border-radius: 12px; font-size: 13px; font-weight: 600;">Start Compiling Free</span>
-
-  <br/><br/>
-
-  <span style="color: #4b5563; font-size: 11px;">✓ No credit card  ✓ 5 free compilations/day  ✓ Cancel anytime</span>
-</pre>
+![Landing Page](./screenshots/landing-page.png)
 
 ---
 
@@ -161,15 +146,9 @@ prompt-master/
 └── requirements.txt          # Tool requirements
 ```
 
----
 
-## License
-
-MIT
-
----
 
 <br/>
 <div align="center">
-  <strong>WORK IN PROGRESS</strong>
+  <strong>🚩 WORK IN PROGRESS 🚩</strong>
 </div>
