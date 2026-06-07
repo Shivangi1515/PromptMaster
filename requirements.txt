@@ -1,0 +1,16 @@
+@clerk/clerk-react
+@supabase/supabase-js
+@upstash/ratelimit
+@upstash/redis
+stripe
+@stripe/stripe-js
+resend
+express
+cors
+dotenv
+helmet
+react
+react-dom
+react-router-dom
+tailwindcss
+vite
